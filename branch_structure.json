@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2093-spr-2026-169-obs-surface-actionable-email",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2093-spr-2026-169-obs-surface-actionable-email": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2093-spr-2026-169-obs-surface-actionable-email",
+    "origin"
+  ]
+}
